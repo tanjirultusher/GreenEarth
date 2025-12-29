@@ -6,13 +6,6 @@ A modern, responsive web application dedicated to environmental restoration thro
 
 Green Earth Initiative is a comprehensive platform that connects environmental enthusiasts with tree plantation opportunities worldwide. Our mission is to plant 1 million trees and create a sustainable future for generations to come.
 
-### 🎯 Key Objectives
-
-- **Environmental Impact**: Facilitate large-scale tree plantation projects
-- **Community Engagement**: Connect volunteers with local environmental initiatives  
-- **Educational Outreach**: Raise awareness about climate change and conservation
-- **Sustainable Development**: Support eco-friendly practices and carbon offset programs
-
 ## ✨ Core Features
 
 ### 🌳 Interactive Tree Catalog
