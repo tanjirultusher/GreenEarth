@@ -39,53 +39,6 @@ Green Earth Initiative is a comprehensive platform that connects environmental e
 - **Geographic Coverage**: Interactive maps showing project locations
 - **Success Stories**: Community testimonials and case studies
 
-## 🛠️ Technical Architecture
-
-### Frontend Technologies
-- **HTML5**: Semantic markup with accessibility standards
-- **Modern CSS**: Tailwind CSS for utility-first styling
-- **Vanilla JavaScript**: ES6+ features with class-based architecture
-- **Responsive Design**: Mobile-first approach with progressive enhancement
-
-### External Integrations
-- **REST API**: Integration with Programming Hero plant database
-- **Font Awesome**: Comprehensive icon library
-- **Google Fonts**: Typography optimization
-- **CDN Resources**: Optimized asset delivery
-
-### Performance Optimizations
-- **Lazy Loading**: Efficient image and content loading
-- **Async Operations**: Non-blocking API calls and data fetching
-- **Error Handling**: Robust error management and user feedback
-- **Loading States**: Smooth transitions and user experience indicators
-
-## 🎨 Design Philosophy
-
-### User Experience (UX)
-- **Intuitive Navigation**: Clear information hierarchy and user flows
-- **Accessibility**: WCAG compliant design with keyboard navigation
-- **Performance**: Fast loading times and smooth interactions
-- **Mobile Optimization**: Touch-friendly interface design
-
-### Visual Design (UI)
-- **Modern Aesthetics**: Clean, contemporary design language
-- **Color Psychology**: Green-focused palette representing nature and growth
-- **Typography**: Readable fonts with proper contrast ratios
-- **Interactive Elements**: Hover effects and micro-animations
-
-## 🌍 Environmental Impact
-
-### Global Reach
-- **25+ Countries**: International presence across multiple continents
-- **500,000+ Trees**: Successfully planted through community partnerships
-- **50,000+ Volunteers**: Active environmental advocates worldwide
-- **Carbon Offset**: Measurable reduction in atmospheric CO2 levels
-
-### Sustainability Metrics
-- **Biodiversity Conservation**: Protection of endangered species habitats
-- **Air Quality Improvement**: Measurable enhancement in urban environments
-- **Community Development**: Economic opportunities in rural areas
-- **Educational Impact**: Environmental awareness programs
 
 ## 🚀 Getting Started
 
@@ -99,26 +52,6 @@ Green Earth Initiative is a comprehensive platform that connects environmental e
 2. Open `index.html` in your preferred browser
 3. No build process required - runs directly in browser
 
-### Usage
-1. **Browse Trees**: Explore different tree categories and species
-2. **Add to Cart**: Select trees for your environmental contribution
-3. **Make Donation**: Complete your tree plantation sponsorship
-4. **Track Impact**: Monitor your contribution to global reforestation
 
-## 🤝 Contributing
-
-We welcome contributions from developers, designers, and environmental enthusiasts:
-
-- **Code Contributions**: Bug fixes, feature enhancements, performance improvements
-- **Design Input**: UI/UX improvements and accessibility enhancements  
-- **Content Creation**: Educational materials and environmental resources
-- **Community Outreach**: Volunteer coordination and partnership development
-
-
-## 📄 License
-
-© 2025 Green Earth Initiative. All rights reserved. Made with 💚 for our planet.
-
----
-
-*Together, we can create a greener, more sustainable world for future generations. Every tree planted is a step toward environmental restoration and climate change mitigation.*
+### Live Link
+https://exquisite-faloodeh-2945c6.netlify.app/
